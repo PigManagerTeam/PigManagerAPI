@@ -87,6 +87,7 @@ celerybeat-schedule
 venv/
 ENV/
 migrations/
+*.sqlite3
 
 # Spyder project settings
 .spyderproject
